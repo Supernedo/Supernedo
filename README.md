@@ -1,7 +1,7 @@
 ### Hi, my name is Ché Salazar and I'm currently studying at the University of The West Indies.
-### I am currently in pursuit of my Bachelor's in Computer Science (Special) - It just has more Math and I.T. Nothing too special I suppose.
+### I am currently in pursuit of my Bachelor's in Computer Science (Special) - It just has more Math and I.T. Nothing too special, I suppose.
 
-### Here are some stuff about me
+### Here are some stuff about me:
 
 - I'm currently working on a project for my INFO course, so it's going to be a Movies Website.
 - I'm currently learning the API needed for the Forge Mod Loader.
