@@ -3,7 +3,7 @@
 
 ### Here are some stuff about me:
 
-- I'm currently working on a project for my INFO course, so it's going to be a Movies Website.
+- I'm currently working on a project for my INFO course, so it's going to be an Offline Platform App.
 - I'm currently learning the API needed for the Forge Mod Loader.
 - Fun Fact: Sleep is a priviledge. Have fun! 
 <!--
