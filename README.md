@@ -5,7 +5,9 @@
 
 - I'm currently working on a project for my INFO course, so it's going to be an Offline Platform App.
 - I'm currently learning the API needed for the Forge Mod Loader.
-- Fun Fact: Sleep is a priviledge. Have fun! 
+- Fun Fact: Sleep is a priviledge. Have fun!
+
+[![Supernedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supernedo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Supernedo/Supernedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
