@@ -3,8 +3,10 @@
 
 ### Here are some stuff about me:
 
-- I'm currently working on a project for my INFO course, so it's going to be an Offline Platform App.
+- Worked Offline Platform Application that utilizes QR Codes and React.
 - I'm currently learning the API needed for the Forge Mod Loader.
+- Developing games using the Java2D API.
+- Presently working on a 3D Multiplayer Card Game.
 - Fun Fact: Sleep is a priviledge. Have fun!
 
 [![Supernedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supernedo)](https://github.com/anuraghazra/github-readme-stats)
