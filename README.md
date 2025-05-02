@@ -9,4 +9,4 @@
 - Presently working on a 3D Multiplayer Card Game.
 - Fun Fact: Sleep is a priviledge. Have fun!
 
-![Supernedo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Supernedo)
+![Supernedo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Supernedo&theme=tokyonight)
