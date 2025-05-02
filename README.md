@@ -8,5 +8,5 @@
 - Developing games using the Java2D API.
 - Presently working on a 3D Multiplayer Card Game.
 - Fun Fact: Sleep is a priviledge. Have fun!
-- 
+
 ![Supernedo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Supernedo)
