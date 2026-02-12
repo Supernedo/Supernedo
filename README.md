@@ -1,5 +1,5 @@
 ### Hi, my name is Ché Salazar and I'm currently studying at the University of The West Indies.
-### I am currently in pursuit of my Bachelor's in Computer Science (Special) - It just has more Math and I.T. Nothing too special, I suppose.
+### Bachelor of Computer Science (Special)
 
 ### Here are some stuff about me:
 
